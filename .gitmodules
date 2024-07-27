@@ -1,0 +1,3 @@
+[submodule "ArcadiaNeoGeoPocketCore/RACE"]
+	path = ArcadiaNeoGeoPocketCore/RACE
+	url = https://github.com/libretro/RACE.git

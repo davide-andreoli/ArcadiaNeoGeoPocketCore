@@ -879,6 +879,8 @@
 					"-DCZ80",
 					"-D__LIBRETRO__",
 					"-D_MAX_PATH=2048",
+					"-DNDEBUG",
+					"-O2",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.davideandreoli.ArcadiaNeoGeoPocketCore;
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
@@ -930,6 +932,8 @@
 					"-DCZ80",
 					"-D__LIBRETRO__",
 					"-D_MAX_PATH=2048",
+					"-DNDEBUG",
+					"-O2",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.davideandreoli.ArcadiaNeoGeoPocketCore;
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
